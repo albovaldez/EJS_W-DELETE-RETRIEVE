@@ -1,0 +1,18 @@
+{
+  "name": "testing_ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "git": "^0.1.5",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.14"
+  }
+}
